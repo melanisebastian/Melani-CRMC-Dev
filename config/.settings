@@ -1,0 +1,16 @@
+{
+    "projectName": "Melani-CRMC-Dev",
+    "username": "msebastian@crmculture.com.dev",
+    "id": "a57d0740-ea95-11e6-a6f1-2d5b089cff7e",
+    "namespace": "",
+    "environment": "production",
+    "loginUrl": "https://login.salesforce.com/",
+    "workspace": "/Users/melanisebastian/SFDC_Customers/msebastian",
+    "subscription": [
+        "ApexClass",
+        "ApexComponent",
+        "ApexPage",
+        "ApexTrigger",
+        "StaticResource"
+    ]
+}
