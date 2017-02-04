@@ -124,5 +124,19 @@
         "manageableState": "unmanaged",
         "type": "ApexTrigger",
         "mmState": "clean"
+    },
+    "TestRepo.cls": {
+        "createdById": "00536000002PuZuAAK",
+        "createdByName": "Melani Sebastian",
+        "createdDate": "2017-02-04T05:15:40.000Z",
+        "fileName": "unpackaged/classes/TestRepo.cls",
+        "fullName": "TestRepo",
+        "id": "01p3600000IUsdUAAT",
+        "lastModifiedById": "00536000002PuZuAAK",
+        "lastModifiedByName": "Melani Sebastian",
+        "lastModifiedDate": "2017-02-04T05:15:40.000Z",
+        "manageableState": "unmanaged",
+        "type": "ApexClass",
+        "mmState": "clean"
     }
 }
